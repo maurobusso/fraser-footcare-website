@@ -19,12 +19,26 @@ export default function Main() {
             </div>
           </div>
 
-          <div className="flex">
-            <div className="relative mx-auto w-20 h-20 my-20 rounded-xl lg:w-80 lg:h-80 border-2 border-black">
-                <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>college logo
+          <div className="flex flex-col">
+            <div className="flex mx-20 my-20">
+              <div className="w-20 h-20 mx-8 rounded-xl border-2 border-black">
+                <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />college logo
+              </div>
+              <div>
+                <aside className="">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut animi harum, doloremque porro similique enim vel maxime quas odit culpa, quos qui molestias doloribus. Porro saepe maxime recusandae blanditiis animi!
+                </aside>
+              </div>
             </div>
-            <div className="relative mx-auto w-20 h-20 my-20 rounded-xl lg:w-80 lg:h-80 border-2 border-black">
-                <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>hcpc logo
+            <div className="flex mx-20 my-20">
+              <div>
+                <aside>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad repellendus commodi exercitationem molestias necessitatibus praesentium sit itaque maiores, incidunt temporibus dolorem fuga hic id pariatur minus architecto doloremque labore! Dolorem!
+                </aside>
+              </div>
+              <div className="w-20 h-20 mx-8 rounded-xl border-2 border-black">
+                <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />hcpc logo
+              </div>
             </div>
           </div>
         </div>
