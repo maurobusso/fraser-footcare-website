@@ -20,7 +20,7 @@ export default function Main() {
           </div>
 
           <div className="flex flex-col">
-            <div className="flex mx-20 my-20">
+            <div className="md:flex mx-20 my-20  ">
               <div className="w-20 h-20 mx-8 rounded-xl border-2 border-black">
                 <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />college logo
               </div>
@@ -30,7 +30,7 @@ export default function Main() {
                 </aside>
               </div>
             </div>
-            <div className="flex mx-20 my-20">
+            <div className="md:flex mx-20 my-20">
               <div>
                 <aside>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad repellendus commodi exercitationem molestias necessitatibus praesentium sit itaque maiores, incidunt temporibus dolorem fuga hic id pariatur minus architecto doloremque labore! Dolorem!
