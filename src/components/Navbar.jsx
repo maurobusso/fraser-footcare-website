@@ -6,7 +6,7 @@ export default function Navbar() {
       <>
         <nav className="h-80 bg-pink-400">
           <div>
-            {/* ada logo */}
+            
             <div className="mx-4 flex justify-start">
               <ul className="flex gap-2 items-center justify-center md:justify-start">
                 <li className="my-2 md:mx-4">
