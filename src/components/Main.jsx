@@ -1,4 +1,5 @@
 import React from "react"
+import rcopLogo from "../assets/RCOP-logo.png"
 
 export default function Main() {
     return (
@@ -19,10 +20,10 @@ export default function Main() {
             </div>
           </div>
 
-          <div className="flex flex-col">
-            <div className="md:flex mx-20 my-20  ">
-              <div className="w-20 h-20 mx-8 rounded-xl border-2 border-black">
-                <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />college logo
+          <div className="flex flex-col items-center">
+            <div className="flex items-center md:flex mx-20 my-20 max-w-5xl">
+              <div className="mx-4 rounded-xl border-2">
+                <img src={rcopLogo} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />
               </div>
               <div>
                 <aside className="">
@@ -30,14 +31,14 @@ export default function Main() {
                 </aside>
               </div>
             </div>
-            <div className="md:flex mx-20 my-20">
+            <div className="flex items-center md:flex mx-20 my-20 max-w-5xl">
               <div>
                 <aside>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad repellendus commodi exercitationem molestias necessitatibus praesentium sit itaque maiores, incidunt temporibus dolorem fuga hic id pariatur minus architecto doloremque labore! Dolorem!
                 </aside>
               </div>
-              <div className="w-20 h-20 mx-8 rounded-xl border-2 border-black">
-                <img alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />hcpc logo
+              <div className="mx-4 rounded-xl border-2">
+                <img src={rcopLogo} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />
               </div>
             </div>
           </div>
