@@ -4,8 +4,10 @@ export default function Footer() {
     return (
       <>
         <footer className="footer">
-          <div className="md:flex">
-            <p className="flex justify-center p-4">Please send us a message, or call us for an appointment (555) 555-5555.</p>
+          <div className="">
+            <div>
+              <p className="flex justify-center p-4">Please send us a message, or call us for an appointment (555) 555-5555.</p>
+            </div>
             <div>
               <h5 className="flex justify-center py-4">Hours</h5>
               <div className="flex justify-center py-4">
