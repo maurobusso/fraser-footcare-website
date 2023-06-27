@@ -4,7 +4,7 @@ import { Link } from "react-scroll"
 export default function Navbar() {
     return (
       <>
-        <nav className="h-80 bg-pink-400">
+        <nav className="h-80 bg-pink-300">
           <div className="flex">
             <div className="mx-4 flex justify-start">
               <ul className="flex gap-2 items-center justify-center md:justify-start">
