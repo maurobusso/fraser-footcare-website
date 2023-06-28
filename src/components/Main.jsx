@@ -8,7 +8,7 @@ export default function Main() {
       <>
         <div className="main mx-16 md:mx-40 border-b-4 border-pink-600">
 
-          <h2 className="flex justify-center py-20 text-lg">About Us</h2>
+          <h2 className="flex justify-center py-8 md:py-20 text-lg">About Us</h2>
           <div className="flex justify-center py-8">
             <p className="md:max-w-2xl text-lg">
               We are specilists in home visits, giving you the time and flexibility to manage your appointment with us. You do not need to provide towels etc. All our equipment, dressings and creams etc. are carried with us so all you need to do is provide a space for our assessment and treatment services to take place.
