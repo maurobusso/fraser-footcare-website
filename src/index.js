@@ -7,7 +7,7 @@ import Main from './components/Main'
 import Footer from './components/Footer'
 import Services from './components/Services'
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <>
     <Navbar />

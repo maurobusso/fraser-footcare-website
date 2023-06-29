@@ -1,12 +1,13 @@
 import React from "react"
 import rcopLogo from "../assets/RCOP-logo.png"
 import ada1 from "../assets/ada1.jpg"
+import ada3 from "../assets/ada3.jpg"
 import HCPC from "../assets/hcpc-logo.png"
 
 export default function Main() {
     return (
       <>
-        <div className="main mx-16 md:mx-40 border-b-4 border-pink-600">
+        <div className="main mx-16 md:mx-40 border-b-4 border-pink-600 flex flex-col">
 
           <h2 className="flex justify-center py-8 md:py-20 text-lg">About Us</h2>
           <div className="flex justify-center py-8">
@@ -18,7 +19,7 @@ export default function Main() {
             </p>
           </div>
           <div className="pb-24 md:flex md:items-center">
-            <div className="relative mx-auto w-60 h-60 my-20 rounded-xl lg:w-80 lg:h-80">
+            <div className="mx-auto w-60 h-60 my-20 rounded-xl md:w-80 md:h-80">
                 <img src={ada1} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
             </div>
             <div className="text-lg md:px-8 md:mt-20 md:max-w-2xl">
@@ -28,14 +29,14 @@ export default function Main() {
               </p>
             </div>
           </div>
-
-          <div className="flex justify-center">
-            <div className="items-center my-20">
-              <div>
-                <aside className="md:max-w-md text-lg">
-                  All our foot health services are carried out by a fully qualified foot health practitioner. Who are registerred with the HCPC and the Royal College of Podiatry.
-                </aside>
-              </div>
+          <div className="pb-24 md:flex md:items-center">
+            <div className="mx-auto w-60 h-60 my-28 rounded-xl lg:w-80 lg:h-80 md:hidden">
+                <img src={ada3} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
+            </div>
+            <div className="text-lg md:px-8 md:mt-20 md:max-w-2xl">
+              <p className="text-lg mt-8 md:mt-2 md:max-w-2xl">
+                All our foot health services are carried out by a fully qualified foot health practitioner. Who are registerred with the HCPC and the Royal College of Podiatry. 
+              </p>
               <div className="flex justify-center my-4">
                 <div className="rounded-xl m-4 w-20 h-20">
                   <img src={rcopLogo} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />
@@ -45,16 +46,9 @@ export default function Main() {
                 </div>
               </div>
             </div>
-            {/* <div className="flex items-center md:flex mx-20 my-20">
-              <div>
-                <aside className="max-w-md">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad repellendus commodi exercitationem molestias necessitatibus praesentium sit itaque maiores, incidunt temporibus dolorem fuga hic id pariatur minus architecto doloremque labore! Dolorem!
-                </aside>
-              </div>
-              <div className="mx-4 rounded-xl w-40 h-40">
-                <img src={HCPC} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl" />
-              </div>
-            </div> */}
+            <div className="hidden md:block mx-auto w-60 h-60 my-28 rounded-xl lg:w-80 lg:h-80 item-center">
+              <img src={ada3} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
+            </div>
           </div>
         </div>
       </>

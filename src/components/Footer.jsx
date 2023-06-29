@@ -23,7 +23,7 @@ export default function Footer() {
               </div>
             </div>
           </div>
-          <div className="text-sm">
+          <div className="text-sm bg-pink-300">
             Copyright © 2023 Fraser Footcare - All Rights Reserved.
           </div>
         </footer>
