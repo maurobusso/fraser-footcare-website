@@ -1,10 +1,11 @@
 import React from "react"
 import { Link } from "react-scroll"
+import adaLogo from "../assets/ada-logo.jpg"
 
 export default function Navbar() {
     return (
       <>
-        <nav className="h-80 bg-pink-300">
+        <nav className="h-80 sm:bg-cover bg-no-repeat bg-contain lg:bg-center lg:bg-auto" style={{backgroundImage: `url(${adaLogo})`}}>
           <div className="flex">
             <div className="mx-4 flex justify-start">
               <ul className="flex gap-2 items-center justify-center md:justify-start">
