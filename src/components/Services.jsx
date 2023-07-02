@@ -19,7 +19,7 @@ export default function Services() {
           <div className="flex flex-col gap-10 mx-4 md:mx-10 lg:flex-row lg:flex-wrap">
    
             <div className="flex-1 m-8 md:basis-1/4 shadow-2xl shadow-pink-400 rounded-2xl p-4">            
-              <h1 className="my-4 font-SpecialElite">Nail Cutting</h1> 
+              <h1 className="my-4 font-serif text-pink-500 text-lg">Nail Cutting</h1> 
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet3} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
@@ -29,7 +29,7 @@ export default function Services() {
             </div> 
 
             <div className="flex-1 m-8 md:basis-1/4 shadow-2xl shadow-pink-400 rounded-2xl p-4">            
-              <h1 className="my-4 font-SpecialElite">CORNS, CALLUSES/CRACKED SKIN</h1>
+              <h1 className="my-4 font-serif text-pink-500 text-lg">Corn, calluses and craked skin</h1>
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet1} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div> 
@@ -39,7 +39,7 @@ export default function Services() {
             </div> 
 
             <div className="flex-1 m-8 md:basis-1/4 shadow-2xl shadow-pink-400 rounded-2xl p-4">            
-              <h1 className="my-4 font-SpecialElite">VERRUCAS, FUNGAL INFECTION, INGROWING TOE NAILS</h1> 
+              <h1 className="my-4 font-serif text-pink-500 text-lg">Verrucas, fungal infections, ingrowing toe nails</h1> 
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet2} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
@@ -49,7 +49,7 @@ export default function Services() {
             </div> 
 
             <div className="flex-1 m-8 md:basis-1/4 shadow-2xl rounded-2xl shadow-pink-400 p-4">            
-              <h1 className="my-4 font-SpecialElite">ADVICE ON FOOTWEAR</h1> 
+              <h1 className="my-4 font-serif text-pink-500 text-lg">Advice on footwear</h1> 
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet5} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
@@ -59,7 +59,7 @@ export default function Services() {
             </div> 
 
             <div className="flex-1 m-8 md:basis-1/4 shadow-2xl rounded-2xl shadow-pink-400 p-4">            
-              <h1 className="my-4 font-SpecialElite">DIABETIC CARE</h1> 
+              <h1 className="my-4 font-serif text-pink-500 text-lg">Diabetic care</h1> 
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet4} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
