@@ -6,7 +6,12 @@ export default function Footer() {
         <footer className="footer pt-20 bg-amber-100">
           <div className="">
             <div>
-              <p className="flex justify-center p-4">Please send us a message, or call us for an appointment (555) 555-5555.</p>
+              <p className="flex justify-center p-4  font-serif font-extrabold text-pink-500 text-lg">Please send us a message, or call us for an appointment (555) 555-5555.
+              <br/>
+              <br/>
+              Or you can send an email to something@gmail.com
+              
+              </p>
             </div>
             <div>
               <h5 className="flex justify-center py-4 font-serif font-extrabold text-pink-500 text-lg">Hours</h5>

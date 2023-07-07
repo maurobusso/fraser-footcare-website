@@ -7,7 +7,7 @@ import HCPC from "../assets/hcpc-logo.png"
 export default function Main() {
     return (
       <>
-        <div className="main px-16 md:px-40 border-b-4 border-pink-600 flex flex-col bg-amber-100">
+        <div className="main px-16 md:px-40 flex flex-col bg-amber-100">
 
           <h2 className="flex justify-center py-8 md:py-20 font-serif font-extrabold text-pink-500 text-lg">About Us</h2>
           <div className="flex justify-center py-8">
@@ -50,6 +50,7 @@ export default function Main() {
               <img src={ada3} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
             </div>
           </div>
+        <div className="border-b-4 border-pink-600 mx-4 md:mx-10 lg:mx-30"></div>
         </div>
       </>
     )

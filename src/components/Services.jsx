@@ -7,11 +7,6 @@ import feet5 from "../assets/feet5.jpg"
 
 export default function Services() {
 
-    // const {
-    //   title,
-    //   description
-    // } = props
-
     return (
       <>
         <div id="services" className="pt-20 md:pt-60 bg-amber-100">
