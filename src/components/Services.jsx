@@ -14,7 +14,7 @@ export default function Services() {
 
     return (
       <>
-        <div id="services" className="pt-20 md:pt-60">
+        <div id="services" className="pt-20 md:pt-60 bg-amber-100">
           <h2 className="flex justify-center py-4">How We Help</h2>
           <div className="flex flex-col gap-10 mx-4 md:mx-10 lg:flex-row lg:flex-wrap">
    

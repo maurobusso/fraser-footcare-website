@@ -3,7 +3,7 @@ import React from "react"
 export default function Footer() {
     return (
       <>
-        <footer className="footer mt-20">
+        <footer className="footer pt-20 bg-amber-100">
           <div className="">
             <div>
               <p className="flex justify-center p-4">Please send us a message, or call us for an appointment (555) 555-5555.</p>

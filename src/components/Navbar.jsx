@@ -5,7 +5,7 @@ import adaLogo from "../assets/ada-logo.jpg"
 export default function Navbar() {
     return (
       <>
-        <nav className="">
+        <nav className="bg-amber-100">
             <div className="flex w-full px-4">
               <ul className="flex gap-4 items-center justify-center md:justify-end bg">
                 <li className="my-2 md:mx-8">
