@@ -17,11 +17,11 @@ export default function Footer() {
               <h5 className="flex justify-center py-4 font-serif font-extrabold text-pink-500 text-lg">Hours</h5>
               <div id="contact" className="flex justify-center pb-20">
                 <ol className="font-serif text-pink-500">
-                  <li>Mon: 9 am - 5 pm</li>
-                  <li>Tue: 9 am - 5 pm</li>
-                  <li>Wed: 9 am - 5 pm</li>
-                  <li>Thu: 9 am - 5 pm</li>
-                  <li>Fri: 9 am - 5 pm</li>
+                  <li>Mon: 9 am - 4 pm</li>
+                  <li>Tue: 9 am - 4 pm</li>
+                  <li>Wed: 9 am - 4 pm</li>
+                  <li>Thu: 9 am - 4 pm</li>
+                  <li>Fri: 9 am - 4 pm</li>
                   <li>Sat: close</li>
                   <li>Sun: close</li>
                 </ol>
