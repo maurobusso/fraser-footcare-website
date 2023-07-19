@@ -18,7 +18,7 @@ export default function Services() {
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet3} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
-              <div className="my-4">
+              <div className="my-4 font-serif">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit porro nesciunt commodi rem dicta facere accusamus necessitatibus, nemo sequi laboriosam nulla voluptas a molestias quasi veritatis quo ratione! Qui, natus?
               </div>             
             </div> 
@@ -28,7 +28,7 @@ export default function Services() {
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet1} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div> 
-              <div className="my-4">
+              <div className="my-4 font-serif">
                 Are you suffering from a foot pain and living in or around Edinurgh ? We will always do out best to try and fit you in as quickly as possible especialy if you are suffering with painfull feet. 
               </div>             
             </div> 
@@ -38,7 +38,7 @@ export default function Services() {
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet2} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
-              <div className="my-4">
+              <div className="my-4 font-serif">
                 It's especially important to look after your feet if you have diabetes. We are here to give you the help and guidance you need to looking after your feet.
               </div>             
             </div> 
@@ -48,7 +48,7 @@ export default function Services() {
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet5} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
-              <div className="my-4">
+              <div className="my-4 font-serif">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit porro nesciunt commodi rem dicta facere accusamus necessitatibus, nemo sequi laboriosam nulla voluptas a molestias quasi veritatis quo ratione! Qui, natus?
               </div>             
             </div> 
@@ -58,7 +58,7 @@ export default function Services() {
               <div className="relative mx-auto w-60 h-60 rounded-xl lg:w-80 lg:h-80">
                 <img src={feet4} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
-              <div className="my-4">
+              <div className="my-4 font-serif">
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit porro nesciunt commodi rem dicta facere accusamus necessitatibus, nemo sequi laboriosam nulla voluptas a molestias quasi veritatis quo ratione! Qui, natus?
               </div>             
             </div> 

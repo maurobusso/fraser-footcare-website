@@ -11,8 +11,8 @@ export default function Main() {
 
           <h2 className="flex justify-center py-8 md:py-20 font-serif font-extrabold text-pink-500 text-lg">About Us</h2>
           <div className="flex justify-center py-8">
-            <p className="md:max-w-2xl text-lg border-l-8 border-pink-600 pl-4 md:pl-10">
-              We are specilists in home visits, giving you the time and flexibility to manage your appointment with us. You do not need to provide towels etc. All our equipment, dressings and creams etc. are carried with us so all you need to do is provide a space for our assessment and treatment services to take place.
+            <p className="md:max-w-2xl text-lg border-l-8 font-serif border-pink-600 pl-4 md:pl-10">
+              We are specialized in home visits, giving you the time and flexibility to manage your appointment with us. All our equipment, dressings and creams etc. are carried with us so all you need to do is provide a space for our assessment and treatment services to take place.
               <br/>
               <br/>
               We perform foot health home visits for Edinburgh residents who are suffering from mobility or mental health issues which prevent them from attending a chiropodist clinic easily.
@@ -22,10 +22,13 @@ export default function Main() {
             <div className="mx-auto w-60 h-60 my-20 rounded-xl md:w-80 md:h-80">
                 <img src={ada1} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
             </div>
-            <div className="text-lg md:px-8 md:mt-20 md:max-w-2xl">
+            <div className="text-lg md:px-8 md:mt-20 md:max-w-2xl font-serif">
               <h4 className="flex justify-center pt-8">Compassionate healthcare</h4>
               <p className="text-lg mt-8 md:mt-2 md:max-w-2xl border-l-8 border-pink-600 pl-4 md:pl-10">
-                Ada Fraser BSe. As healthcare changes so does provision, with more people requiring home visits. Home visits depend on patient's needs from routine nail cutting to more advanced services such as vascular or neurovascular assessments 
+                Ada Fraser BSe. As healthcare changes so does provision, with more people requiring home visits. 
+                <br/>
+                <br/>
+                Home visits depend on patient's needs from routine nail cutting to more advanced services such as vascular or neurovascular assessments 
               </p>
             </div>
           </div>
@@ -34,7 +37,7 @@ export default function Main() {
                 <img src={ada3} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
             </div>
             <div className="text-lg md:px-8 md:mt-20 md:max-w-2xl ">
-              <p className="text-lg mt-8 md:mt-2 md:max-w-2xl border-r-8 border-pink-600 pr-2 md:pr-10">
+              <p className="text-lg mt-8 md:mt-2 md:max-w-2xl border-r-8 font-serif border-pink-600 pr-2 md:pr-10">
                 All our foot health services are carried out by a fully qualified foot health practitioner. Who are registerred with the HCPC and the Royal College of Podiatry. 
               </p>
               <div className="flex justify-center my-4">
