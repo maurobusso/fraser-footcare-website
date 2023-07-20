@@ -39,7 +39,7 @@ export default function Services() {
                 <img src={feet2} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
               <div className="my-4 font-serif">
-                It's especially important to look after your feet if you have diabetes. We are here to give you the help and guidance you need to looking after your feet.
+                  It's especially important to look after your feet if you have diabetes. We are here to give you the help and guidance you need to looking after your feet.
               </div>             
             </div> 
 
@@ -49,7 +49,7 @@ export default function Services() {
                 <img src={feet5} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
               <div className="my-4 font-serif">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit porro nesciunt commodi rem dicta facere accusamus necessitatibus, nemo sequi laboriosam nulla voluptas a molestias quasi veritatis quo ratione! Qui, natus?
+                  We offer expert footwear advice personalized to your needs, all from the comfort of your home. Our experienced team of podiatrists understands the importance of proper footwear for foot health and overall well-being. Whether you're dealing with diabetic foot concerns or looking for comfortable, supportive shoes, we're here to help. We'll assess your unique foot requirements and provide tailored recommendations to ensure you find the perfect fit.
               </div>             
             </div> 
 
@@ -59,7 +59,7 @@ export default function Services() {
                 <img src={feet4} alt="img" layout="fill" className="object-cover w-full h-auto rounded-xl"></img>
               </div>
               <div className="my-4 font-serif">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit porro nesciunt commodi rem dicta facere accusamus necessitatibus, nemo sequi laboriosam nulla voluptas a molestias quasi veritatis quo ratione! Qui, natus?
+                  It's especially important to look after your feet if you have diabetes. We are also specialized in providing diabetic foot care in the comfort of your home. Our experienced team offers comprehensive and personalized services, ensuring convenience and high-quality care for your foot health. Let us be your trusted partners in managing diabetes-related foot conditions, right at your doorstep.
               </div>             
             </div> 
 
