@@ -12,7 +12,7 @@ export default function Footer() {
                 Or you can send an email to 
               </p>
               <p className="flex justify-center font-serif font-extrabold text-pink-500 text-lg">
-                <a href="fraserfootcarescot@gmail.com" className="underline pl-2">fraserfootcarescot@gmail.com</a>
+                <a href="mailto:fraserfootcarescot@gmail.com" className="underline pl-2">fraserfootcarescot@gmail.com</a>
               </p>
             </divb>
             <div>
