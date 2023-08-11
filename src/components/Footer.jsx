@@ -6,7 +6,7 @@ export default function Footer() {
         <footer className="footer pt-20 bg-amber-100">
           <div className="">
             <divb className="flex flex-col justify-center" >
-              <p className="flex justify-center p-4  font-serif font-extrabold text-pink-500 text-lg">Please send us a message, or call us for an appointment (555) 555-5555.
+              <p className="flex justify-center p-4  font-serif font-extrabold text-pink-500 text-lg">Please send us a message, or call us for an appointment (###) ###-####.
               </p>
               <p className="flex justify-center font-serif font-extrabold text-pink-500 text-lg">
                 Or you can send an email to 
