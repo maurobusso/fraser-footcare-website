@@ -4,6 +4,8 @@ Fraser Foot Care App is a client project aimed at providing comprehensive foot c
 
 Live Site: https://fraserfootcare.netlify.app
 
+<img width="700px" heigth="900" src="./src/assets/homepage.png"> 
+
 #
 
 
