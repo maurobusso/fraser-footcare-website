@@ -10,15 +10,18 @@ export default function Footer() {
               <p className="flex justify-center pb-14  font-serif font-extrabold text-pink-500 text-xl">
                 CONTACT US
               </p>
+
+              <p className="flex justify-center pb-14 font-serif font-extrabold text-pink-500 text-lg">
+                <a href="mailto:fraserfootcarescot@gmail.com" className="underline pl-2">fraserfootcarescot@gmail.com</a>
+              </p>
+
               <p className="flex justify-center font-serif font-extrabold text-pink-500 text-lg">
                 07488247367
               </p>
-              <p className="flex justify-center font-serif font-extrabold text-pink-500 text-lg">
+
+              <p className="flex justify-center pb-14 font-serif font-extrabold text-pink-500 text-lg">
                 0131 531 5597
               </p>              
-              <p className="flex justify-center font-serif font-extrabold text-pink-500 text-lg">
-                <a href="mailto:fraserfootcarescot@gmail.com" className="underline pl-2">fraserfootcarescot@gmail.com</a>
-              </p>
 
             </div>
             <div>
