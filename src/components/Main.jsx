@@ -9,7 +9,7 @@ export default function Main() {
       <>
         <div className="main px-16 md:px-40 flex flex-col bg-amber-100">
 
-          <h2 className="flex justify-center py-8 md:py-20 font-serif font-extrabold text-pink-500 text-lg">About Us</h2>
+          <h2 className="flex justify-center py-8 md:py-20 font-serif font-extrabold text-pink-500 text-xl">About Us</h2>
           <div className="flex justify-center py-8">
             <p className="md:max-w-2xl text-lg border-l-8 font-serif border-pink-600 pl-4 md:pl-10">
               We are specialized in home visits, giving you the time and flexibility to manage your appointment with us. All our equipment, dressings and creams etc. are carried with us so all you need to do is provide a space for our assessment and treatment services to take place.
