@@ -25,7 +25,7 @@ export default function Services() {
               </li>
               <li>
                 <div className="p-2">
-                <span className="font-bold mr-2">Calluses/ Hard skin:</span> We have all experienced those uncomfortable, unsightly, thick yellow patches of skin on our feet. Calluses not only look bad, but they can also be very painful. Usually caused by that area of your foot being exposed to an excessive amount of friction pressure, calluses are easily dealt with. Diabetic patients are also prone to callus and should be reduced by a skilled podiatrist. 
+                <span className="font-bold mr-2">Calluses/ Hard skin:</span> We have all experienced those uncomfortable, unsightly, thick yellow patches of skin on our feet. <span className="text-pink-700 underline"><a href="https://northwichfootclinic.co.uk/foot-callus-removal/">Calluses</a></span> not only look bad, but they can also be very painful. Usually caused by that area of your foot being exposed to an excessive amount of friction pressure, calluses are easily dealt with. Diabetic patients are also prone to callus and should be reduced by a skilled podiatrist. 
                 </div>
               </li>
               <li>
