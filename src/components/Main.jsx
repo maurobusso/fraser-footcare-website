@@ -7,7 +7,7 @@ import HCPC from "../assets/hcpc-logo.png"
 export default function Main() {
     return (
       <>
-        <div className="main px-16 md:px-40 flex flex-col bg-amber-100">
+        <div className="main px-16 md:px-40 flex flex-col bg-yellow-50">
 
           <h2 className="flex justify-center py-8 md:py-20 font-serif font-extrabold text-pink-500 text-xl">About Us</h2>
           <div className="flex justify-center py-8">
