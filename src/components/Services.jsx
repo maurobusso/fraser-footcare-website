@@ -10,7 +10,7 @@ export default function Services() {
     return (
       <>
         <div id="services" className="pt-20 md:pt-60 bg-yellow-50">
-          <h2 className="flex justify-center py-4 font-serif font-extrabold text-pink-500 text-lg">TREATMENTS</h2>
+          <h2 className="flex justify-center py-4 font-extrabold text-pink-500 text-lg">TREATMENTS</h2>
           <div className="bg-pink-200 p-10 md:p-20 mx-10 lg:mx-40 lg:text-lg">
             <ul>
               <li>
