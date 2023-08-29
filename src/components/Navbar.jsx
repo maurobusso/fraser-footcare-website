@@ -14,9 +14,6 @@ export default function Navbar() {
                 <li className="my-2 md:mx-8">
                   <Link to="services" smooth={true} duration={500} className="font-serif font-extrabold text-pink-500 md:text-lg">Ours Services</Link>
                 </li>
-                <li className="my-2 md:mx-8">
-                  <Link to="services" smooth={true} duration={500} className="font-serif font-extrabold text-pink-500 md:text-lg">Ours Services</Link>
-                </li>
               </ul>
             </div>
 

@@ -1,9 +1,4 @@
 import React from "react"
-import feet1 from "../assets/feet1.jpg"
-import feet2 from "../assets/feet2.jpg"
-import feet3 from "../assets/feet3.jpg"
-import feet4 from "../assets/feet4.jpg"
-import feet5 from "../assets/feet5.jpg"
 
 export default function Services() {
 
